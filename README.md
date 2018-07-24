@@ -1,4 +1,4 @@
-[Build Status](https://travis-ci.org/niknaknel/green.svg?branch=master)
+{[!Build Status](https://travis-ci.org/niknaknel/green)(https://travis-ci.org/niknaknel/green.svg?branch=master)]
 
 
 
